@@ -1,0 +1,12 @@
+MOVEMENT:
+	start time: Wed Oct 03 03:31:18 IDT 2018
+	end time: Wed Oct 03 03:40:37 IDT 2018
+STAY:
+	start time: Wed Oct 03 03:40:37 IDT 2018
+	end time: Wed Oct 03 03:50:44 IDT 2018
+MOVEMENT:
+	start time: Wed Oct 03 03:50:44 IDT 2018
+	end time: Wed Oct 03 03:58:19 IDT 2018
+STAY:
+	start time: Wed Oct 03 03:58:19 IDT 2018
+	end time: Wed Oct 03 04:01:20 IDT 2018
